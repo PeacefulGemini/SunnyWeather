@@ -12,8 +12,8 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import com.example.sunnyweather.R
 import com.example.sunnyweather.databinding.ActivityWeatherBinding
-import com.example.sunnyweather.logic.model.Sky
 import com.example.sunnyweather.logic.model.Weather
+import com.example.sunnyweather.logic.model.getSky
 import java.text.SimpleDateFormat
 import java.util.*
 
